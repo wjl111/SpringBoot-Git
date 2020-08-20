@@ -1,6 +1,6 @@
 my:
-  name: 张三
-  gender: 女
+  name: 李四
+  gender: 男
 spring:
   rabbitmq:
     host: localhost
